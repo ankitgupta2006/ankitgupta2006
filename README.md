@@ -4,8 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="48"/> Web Developer |  
-  <img src="https://media.giphy.com/media/26xBs7GQ9QNwRkUuA/giphy.gif" width="48"/> Creative Designer |  
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="48"/> Web Developer | 
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="48"/> Lifelong Learner
 </h3>
 
@@ -32,7 +31,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="50"/></a>
   <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="50"/></a>
-
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C Language"><img src="https://skillicons.dev/icons?i=c" width="50"/></a>
 </p>
 
