@@ -26,7 +26,6 @@
 <p align="center">
   <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50"/></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="50"/></a>
   <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="50"/></a>
