@@ -42,6 +42,21 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="28"/> GitHub Activity
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitgupta2006&theme=tokyonight" alt="GitHub contribution activity" />
+
+<br><br>
+
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitgupta2006&theme=tokyonight" alt="GitHub statistics" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitgupta2006&theme=tokyonight" alt="Languages across repositories" />
+
+</div>
+
+---
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/kBZBlLVlfECvOQAVno/giphy.gif" width="28"/> "Code is like poetry — every line should inspire."
 </h2>
